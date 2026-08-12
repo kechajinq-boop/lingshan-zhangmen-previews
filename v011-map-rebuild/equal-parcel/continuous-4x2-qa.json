@@ -1,0 +1,14 @@
+{
+  "schema": "lingshan.v11.continuous-4x2-qa.v1",
+  "pass": true,
+  "checks": {
+    "zoneCount": true,
+    "slotCount": true,
+    "everyZoneIsFourByTwo": true,
+    "equalColumnSpacing": true,
+    "equalRowSpacing": true,
+    "everyCellInsideIsland": true,
+    "zonesDoNotOverlap": true,
+    "zonesClearReservedAreas": true
+  }
+}
