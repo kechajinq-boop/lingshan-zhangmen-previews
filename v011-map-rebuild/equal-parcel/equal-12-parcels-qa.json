@@ -9,6 +9,7 @@
     "equalParcelHeight": true,
     "uniqueSlotIds": true,
     "stableSlotIds": true,
+    "parcelsDoNotOverlap": true,
     "everyParcelCornerInsideIsland": true,
     "everyParcelClearOfRiver": true,
     "everyParcelClearOfHallAndMainRoad": true

@@ -120,7 +120,7 @@
     {
       "id": "parcel-03",
       "index": 3,
-      "mapX": 1210,
+      "mapX": 1190,
       "mapY": 220,
       "width": 208,
       "height": 104,
@@ -129,7 +129,7 @@
           "id": "slot-09",
           "blockId": "parcel-03",
           "localIndex": 1,
-          "mapX": 1210,
+          "mapX": 1190,
           "mapY": 194,
           "stage": 1
         },
@@ -137,7 +137,7 @@
           "id": "slot-10",
           "blockId": "parcel-03",
           "localIndex": 2,
-          "mapX": 1158,
+          "mapX": 1138,
           "mapY": 220,
           "stage": 1
         },
@@ -145,7 +145,7 @@
           "id": "slot-11",
           "blockId": "parcel-03",
           "localIndex": 3,
-          "mapX": 1262,
+          "mapX": 1242,
           "mapY": 220,
           "stage": 1
         },
@@ -153,7 +153,7 @@
           "id": "slot-12",
           "blockId": "parcel-03",
           "localIndex": 4,
-          "mapX": 1210,
+          "mapX": 1190,
           "mapY": 246,
           "stage": 1
         }
