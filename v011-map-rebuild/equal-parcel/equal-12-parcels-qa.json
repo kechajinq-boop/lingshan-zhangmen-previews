@@ -1,0 +1,17 @@
+{
+  "schema": "lingshan.v11.equal-parcel-grid-qa.v1",
+  "pass": true,
+  "checks": {
+    "parcelCount": true,
+    "slotCount": true,
+    "everyParcelHasFourCells": true,
+    "equalParcelWidth": true,
+    "equalParcelHeight": true,
+    "uniqueSlotIds": true,
+    "stableSlotIds": true,
+    "everyParcelCornerInsideIsland": true,
+    "everyParcelClearOfRiver": true,
+    "everyParcelClearOfHallAndMainRoad": true
+  },
+  "unsafeParcels": []
+}

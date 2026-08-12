@@ -1,0 +1,551 @@
+{
+  "schema": "lingshan.v11.equal-parcel-grid.v1",
+  "status": "candidate_not_integrated",
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "gridMode": "twelve_equal_isometric_2x2_parcels",
+  "cell": {
+    "width": 104,
+    "height": 52
+  },
+  "parcel": {
+    "width": 208,
+    "height": 104,
+    "cells": 4
+  },
+  "stageParcelCounts": [
+    5,
+    8,
+    12
+  ],
+  "stageSlotCounts": [
+    20,
+    32,
+    48
+  ],
+  "reservedZones": [
+    "central_hall_plaza",
+    "north_south_main_road",
+    "river_corridor"
+  ],
+  "parcels": [
+    {
+      "id": "parcel-01",
+      "index": 1,
+      "mapX": 340,
+      "mapY": 220,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-01",
+          "blockId": "parcel-01",
+          "localIndex": 1,
+          "mapX": 340,
+          "mapY": 194,
+          "stage": 1
+        },
+        {
+          "id": "slot-02",
+          "blockId": "parcel-01",
+          "localIndex": 2,
+          "mapX": 288,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-03",
+          "blockId": "parcel-01",
+          "localIndex": 3,
+          "mapX": 392,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-04",
+          "blockId": "parcel-01",
+          "localIndex": 4,
+          "mapX": 340,
+          "mapY": 246,
+          "stage": 1
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "id": "parcel-02",
+      "index": 2,
+      "mapX": 590,
+      "mapY": 220,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-05",
+          "blockId": "parcel-02",
+          "localIndex": 1,
+          "mapX": 590,
+          "mapY": 194,
+          "stage": 1
+        },
+        {
+          "id": "slot-06",
+          "blockId": "parcel-02",
+          "localIndex": 2,
+          "mapX": 538,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-07",
+          "blockId": "parcel-02",
+          "localIndex": 3,
+          "mapX": 642,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-08",
+          "blockId": "parcel-02",
+          "localIndex": 4,
+          "mapX": 590,
+          "mapY": 246,
+          "stage": 1
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "id": "parcel-03",
+      "index": 3,
+      "mapX": 1210,
+      "mapY": 220,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-09",
+          "blockId": "parcel-03",
+          "localIndex": 1,
+          "mapX": 1210,
+          "mapY": 194,
+          "stage": 1
+        },
+        {
+          "id": "slot-10",
+          "blockId": "parcel-03",
+          "localIndex": 2,
+          "mapX": 1158,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-11",
+          "blockId": "parcel-03",
+          "localIndex": 3,
+          "mapX": 1262,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-12",
+          "blockId": "parcel-03",
+          "localIndex": 4,
+          "mapX": 1210,
+          "mapY": 246,
+          "stage": 1
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "id": "parcel-04",
+      "index": 4,
+      "mapX": 1400,
+      "mapY": 220,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-13",
+          "blockId": "parcel-04",
+          "localIndex": 1,
+          "mapX": 1400,
+          "mapY": 194,
+          "stage": 1
+        },
+        {
+          "id": "slot-14",
+          "blockId": "parcel-04",
+          "localIndex": 2,
+          "mapX": 1348,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-15",
+          "blockId": "parcel-04",
+          "localIndex": 3,
+          "mapX": 1452,
+          "mapY": 220,
+          "stage": 1
+        },
+        {
+          "id": "slot-16",
+          "blockId": "parcel-04",
+          "localIndex": 4,
+          "mapX": 1400,
+          "mapY": 246,
+          "stage": 1
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "id": "parcel-05",
+      "index": 5,
+      "mapX": 230,
+      "mapY": 455,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-17",
+          "blockId": "parcel-05",
+          "localIndex": 1,
+          "mapX": 230,
+          "mapY": 429,
+          "stage": 1
+        },
+        {
+          "id": "slot-18",
+          "blockId": "parcel-05",
+          "localIndex": 2,
+          "mapX": 178,
+          "mapY": 455,
+          "stage": 1
+        },
+        {
+          "id": "slot-19",
+          "blockId": "parcel-05",
+          "localIndex": 3,
+          "mapX": 282,
+          "mapY": 455,
+          "stage": 1
+        },
+        {
+          "id": "slot-20",
+          "blockId": "parcel-05",
+          "localIndex": 4,
+          "mapX": 230,
+          "mapY": 481,
+          "stage": 1
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "id": "parcel-06",
+      "index": 6,
+      "mapX": 460,
+      "mapY": 455,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-21",
+          "blockId": "parcel-06",
+          "localIndex": 1,
+          "mapX": 460,
+          "mapY": 429,
+          "stage": 2
+        },
+        {
+          "id": "slot-22",
+          "blockId": "parcel-06",
+          "localIndex": 2,
+          "mapX": 408,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-23",
+          "blockId": "parcel-06",
+          "localIndex": 3,
+          "mapX": 512,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-24",
+          "blockId": "parcel-06",
+          "localIndex": 4,
+          "mapX": 460,
+          "mapY": 481,
+          "stage": 2
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "id": "parcel-07",
+      "index": 7,
+      "mapX": 1190,
+      "mapY": 455,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-25",
+          "blockId": "parcel-07",
+          "localIndex": 1,
+          "mapX": 1190,
+          "mapY": 429,
+          "stage": 2
+        },
+        {
+          "id": "slot-26",
+          "blockId": "parcel-07",
+          "localIndex": 2,
+          "mapX": 1138,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-27",
+          "blockId": "parcel-07",
+          "localIndex": 3,
+          "mapX": 1242,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-28",
+          "blockId": "parcel-07",
+          "localIndex": 4,
+          "mapX": 1190,
+          "mapY": 481,
+          "stage": 2
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "id": "parcel-08",
+      "index": 8,
+      "mapX": 1420,
+      "mapY": 455,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-29",
+          "blockId": "parcel-08",
+          "localIndex": 1,
+          "mapX": 1420,
+          "mapY": 429,
+          "stage": 2
+        },
+        {
+          "id": "slot-30",
+          "blockId": "parcel-08",
+          "localIndex": 2,
+          "mapX": 1368,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-31",
+          "blockId": "parcel-08",
+          "localIndex": 3,
+          "mapX": 1472,
+          "mapY": 455,
+          "stage": 2
+        },
+        {
+          "id": "slot-32",
+          "blockId": "parcel-08",
+          "localIndex": 4,
+          "mapX": 1420,
+          "mapY": 481,
+          "stage": 2
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "id": "parcel-09",
+      "index": 9,
+      "mapX": 340,
+      "mapY": 690,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-33",
+          "blockId": "parcel-09",
+          "localIndex": 1,
+          "mapX": 340,
+          "mapY": 664,
+          "stage": 3
+        },
+        {
+          "id": "slot-34",
+          "blockId": "parcel-09",
+          "localIndex": 2,
+          "mapX": 288,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-35",
+          "blockId": "parcel-09",
+          "localIndex": 3,
+          "mapX": 392,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-36",
+          "blockId": "parcel-09",
+          "localIndex": 4,
+          "mapX": 340,
+          "mapY": 716,
+          "stage": 3
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "id": "parcel-10",
+      "index": 10,
+      "mapX": 590,
+      "mapY": 690,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-37",
+          "blockId": "parcel-10",
+          "localIndex": 1,
+          "mapX": 590,
+          "mapY": 664,
+          "stage": 3
+        },
+        {
+          "id": "slot-38",
+          "blockId": "parcel-10",
+          "localIndex": 2,
+          "mapX": 538,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-39",
+          "blockId": "parcel-10",
+          "localIndex": 3,
+          "mapX": 642,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-40",
+          "blockId": "parcel-10",
+          "localIndex": 4,
+          "mapX": 590,
+          "mapY": 716,
+          "stage": 3
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "id": "parcel-11",
+      "index": 11,
+      "mapX": 1190,
+      "mapY": 690,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-41",
+          "blockId": "parcel-11",
+          "localIndex": 1,
+          "mapX": 1190,
+          "mapY": 664,
+          "stage": 3
+        },
+        {
+          "id": "slot-42",
+          "blockId": "parcel-11",
+          "localIndex": 2,
+          "mapX": 1138,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-43",
+          "blockId": "parcel-11",
+          "localIndex": 3,
+          "mapX": 1242,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-44",
+          "blockId": "parcel-11",
+          "localIndex": 4,
+          "mapX": 1190,
+          "mapY": 716,
+          "stage": 3
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "id": "parcel-12",
+      "index": 12,
+      "mapX": 1400,
+      "mapY": 690,
+      "width": 208,
+      "height": 104,
+      "cells": [
+        {
+          "id": "slot-45",
+          "blockId": "parcel-12",
+          "localIndex": 1,
+          "mapX": 1400,
+          "mapY": 664,
+          "stage": 3
+        },
+        {
+          "id": "slot-46",
+          "blockId": "parcel-12",
+          "localIndex": 2,
+          "mapX": 1348,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-47",
+          "blockId": "parcel-12",
+          "localIndex": 3,
+          "mapX": 1452,
+          "mapY": 690,
+          "stage": 3
+        },
+        {
+          "id": "slot-48",
+          "blockId": "parcel-12",
+          "localIndex": 4,
+          "mapX": 1400,
+          "mapY": 716,
+          "stage": 3
+        }
+      ],
+      "stage": 3
+    }
+  ]
+}
